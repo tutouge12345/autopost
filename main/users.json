@@ -1,13 +1,13 @@
 [
     {
-        "name": "姓名1",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
+        "name": "王浩强",
+        "stucode": "2022210462",
+        "password": "@Whq040415",
+        "schoolcode": "chzu"
     },{
-        "name": "姓名2",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
+        "name": "孙新雅",
+        "stucode": "2022212870",
+        "password": "Assxxyy111/",
+        "schoolcode": "chzu"
     }
 ]
